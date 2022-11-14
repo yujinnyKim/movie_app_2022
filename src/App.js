@@ -1,6 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 import Movie from './Movie';
+import './App.css';
 
 /*extends React.Component is basically app class is inheriting component class*/
 class App extends React.Component{
